@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp2186059.jpg");
+    background-size: cover;
+}
+
+
+.not-devoured, .devoured, .form {
+    opacity: .8;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background-color: silver;
+    padding: 10px 20px;
+
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.btn-success {
+    padding: 5px 10px;
+    border-radius: 5px;
+}

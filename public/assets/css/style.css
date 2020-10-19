@@ -17,7 +17,7 @@ body {
     margin-bottom: 20px;
 }
 
-.btn-success {
+.btn-success, .btn-danger {
     padding: 5px 10px;
     border-radius: 5px;
 }

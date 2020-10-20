@@ -1,7 +1,7 @@
 
   # Eat Da Burger!
 
-  ![burger](https://img.shields.io/github/languages/top/j-nederveld/burger)
+  ![burger](https://github.com/j-nederveld/burger/blob/main/public/assets/img/eatdaburger.png)
 
 ## Description 
 
